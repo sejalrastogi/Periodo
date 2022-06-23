@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Home from './components/pages/Home';
 // import HeroSection from './components/HeroSection';
-import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Services from './components/pages/Services';
 import Doctors from './components/pages/Doctors';
 import SignUp from './components/pages/SignUp';
